@@ -138,6 +138,8 @@ Publish the website in the given URL.
 
 # HOMEPAGE:
 ![Screenshot (80)](https://github.com/user-attachments/assets/f4a87abf-e297-494e-bb2e-ba0775147f8e)
+![Screenshot (86)](https://github.com/user-attachments/assets/15e9e850-62ee-4f5c-8dc3-a0ee918dd439)
+
 
 
 # RESULT:
